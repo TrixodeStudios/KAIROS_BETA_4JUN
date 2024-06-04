@@ -1,0 +1,5 @@
+google-generativeai
+sqlalchemy
+psycopg2-binary  # If you're using PostgreSQL with Supabase
+python-dotenv 
+# ... other dependencies you might have
